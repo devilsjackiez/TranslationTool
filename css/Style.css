@@ -1,0 +1,22 @@
+
+
+body {
+    /*background-color: #1d1d1d;*/
+    background-image: url("../img/backGray.jpg");
+    /*overflow: hidden;*/
+    color: white;
+}
+.navbar {
+
+}
+/*
+.navbar-inverse{
+    border-radius: 0px ;
+    background-color: chocolate;
+    border-color: chocolate;
+    box-shadow: 2px 2px 10px gray;
+}*/
+#btnradious0 {
+    border-radius: 0px;
+    box-shadow: 2px 5px 10px black;
+}
